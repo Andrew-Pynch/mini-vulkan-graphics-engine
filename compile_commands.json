@@ -1,6 +1,6 @@
 [
  {
-  "directory": "/Users/andrewpynch/personal/vulcan-learn",
+  "directory": "/Users/andrewpynch/personal/mini-vulkan-graphics-engine",
   "arguments": [
    "g++",
    "-std=c++17",
