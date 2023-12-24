@@ -1,0 +1,27 @@
+[
+ {
+  "directory": "/Users/andrewpynch/personal/vulcan-learn",
+  "arguments": [
+   "g++",
+   "-std=c++17",
+   "-I.",
+   "-I/Users/andrewpynch/VulkanSDK/vulkan/macOS/include",
+   "-I/opt/homebrew/opt/glfw/include",
+   "-o",
+   "a.out",
+   "main.cpp",
+   "-L/Users/andrewpynch/VulkanSDK/vulkan/macOS/lib",
+   "-L/opt/homebrew/opt/glfw/lib",
+   "-L/opt/homebrew/Cellar/glfw/3.3.9/lib",
+   "-lglfw",
+   "-framework",
+   "Cocoa",
+   "-framework",
+   "IOKit",
+   "-framework",
+   "CoreFoundation",
+   "-lvulkan"
+  ],
+  "file": "main.cpp"
+ }
+]
