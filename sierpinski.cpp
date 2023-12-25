@@ -1,5 +1,3 @@
-#pragma once
-
 #include "sierpinski.hpp"
 #include "lve_model.hpp"
 
